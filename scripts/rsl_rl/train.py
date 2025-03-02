@@ -151,3 +151,4 @@ if __name__ == "__main__":
     simulation_app.close()
     ## for DogDogLab
     ## for dogdogLab_init
+    ## for dogdog_init
